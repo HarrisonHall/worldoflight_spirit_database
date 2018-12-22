@@ -1,6 +1,7 @@
 # search.py
 
 import csv
+import sys
 
 filename = "spirits.csv"
 
